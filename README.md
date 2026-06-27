@@ -66,7 +66,7 @@ The workbook contains **29 sheets** organised into six functional layers:
 
 ### Filtered View — 2022, Male Customers Only
 
-![Dashboard - 2022 Males](Dashboard-_2022__Males.png)
+![Dashboard - 2022 Males](Dashboard-_2022,__Males.png)
 
 > **KPIs (2022, Males):** Total Revenue £383,655.54 | Sales Volume 14,898 | Avg Sales £1,071.84 | Total Orders 139 | Discounted Revenue £365,814.12
 
@@ -76,7 +76,7 @@ The slicers on the left panel filter by **Year**, **Post Code Area** (CW/HS/WC/W
 
 ## Monthly Sales Pivot Table (2020–2022)
 
-![Monthly Sales Pivot Table](monthly__sales__pivot_tables.png)
+![Monthly Sales Pivot Table](monthly__sales,__pivot_tables.png)
 
 Three-year pivot showing monthly sales volume by product and postcode area with annual totals and grand totals across all years.
 
